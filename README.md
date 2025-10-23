@@ -4,7 +4,7 @@ Imagen Madre y base pública de la marca VIA Servicios Digitales.
 
 Identidad visual base de la marca. Imagen Madre + lineamientos mínimos para uso público.
 
-![Imagen Madre VIA](assets/imagen-madre-via.jpg)
+<img width="2045" height="2048" alt="VIA-Servicios-Digitales" src="https://github.com/user-attachments/assets/117a3dd6-6526-4ee7-96a3-f246ea0c6a02" />
 
 > **VIA Servicios Digitales** — identidad y creatividad asistida por IA para comunicación, producto y marca.  
 > Estado: **Operativa** · Licencia: **MIT** (código) / © 2025 Juan Pablo Serra (arte e identidad)
